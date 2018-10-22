@@ -75,7 +75,7 @@
                 android:layout_centerInParent="true"
                 android:text="Watch a rewarded video ad"
                 android:textColor="#FFF"
-                android:textSize="18sp"
+                android:textSize="16sp"
                 android:textStyle="bold" >
             </TextView>
 
